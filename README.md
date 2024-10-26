@@ -3,4 +3,5 @@ Repositório destinado para o Laboratório 7 da matéria Sistemas Operacionais (
 
 ## Dupla
 RA: 10419790 | Carlos Eduardo Hayashi 
+
 RA: 10419471 | Vincius Oliveira Piccazzio
