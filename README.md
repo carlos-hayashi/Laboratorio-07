@@ -7,4 +7,5 @@ RA: 10419790 | Carlos Eduardo Hayashi
 RA: 10419471 | Vincius Oliveira Piccazzio
 
 ## Print dos algoritmos de substituição 
-![image](https://github.com/user-attachments/assets/1cf59cf2-34eb-4f8e-b6fc-419c32128064)
+![image](https://github.com/user-attachments/assets/bd774838-5869-46e0-b5ee-c653d068b673)
+
